@@ -3,7 +3,7 @@
 An advanced AI-driven ETL (Extract, Transform, Load) pipeline built using **Dify** and **Llama 4 Scout**. This project demonstrates an agentic multi-LLM chain that automates weather data collection, expert analysis, and quality-controlled reporting for major Indian cities.
 
 ## 🚀 Workflow Architecture
-![Workflow Architecture](./workflow-architecture.png)
+![Workflow Architecture](./architecture.png)
 This agent utilizes a 10-node pipeline to ensure data accuracy and high-quality insights:
 1. **City Parser (LLM):** Normalizes user input into valid JSON.
 2. **Data Extraction (HTTP/Code):** Fetches live weather data via `wttr.in`.
