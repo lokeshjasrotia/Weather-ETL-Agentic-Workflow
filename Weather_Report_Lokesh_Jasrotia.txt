@@ -1,0 +1,27 @@
+India Weather Summary Report
+Data Freshness: 2026-05-10 12:00 PM
+
+Overview
+A heatwave-like condition is affecting major cities across India, with elevated temperatures and feels-like temperatures recorded in several urban centers. High UV indices and haze are prevalent, posing health risks to residents and travelers.
+
+City-by-City Breakdown
+Mumbai: 35°C, feels-like 46°C, UV Index 8, Wind Speed 29 kmph, Visibility 4 km
+Risk Level: � ALERT (High Heat Index and Travel Concerns)
+Delhi: 34°C, feels-like 32°C, UV Index 9, Wind Speed 4 kmph, Visibility 5 km
+Risk Level: NORMAL (Manageable Conditions)
+Chennai: 33°C, feels-like 41°C, UV Index 12, Wind Speed 16 kmph, Visibility 6 km
+Risk Level: � ALERT (Extremely High UV Index and Feels-like Temperature)
+Bangalore: 32°C, feels-like 31°C, UV Index 12, Wind Speed 19 kmph, Visibility 8 km
+Risk Level: NORMAL
+Kolkata: 31°C, feels-like 32°C, UV Index 4, Wind Speed 17 kmph, Visibility 4 km
+Risk Level: NORMAL
+Key Findings
+Heatwave Conditions: Mumbai, Delhi, and Chennai are experiencing high temperatures and feels-like temperatures, with Chennai under ALERT due to its extreme UV index.
+Travel Advisories: Mumbai and Kolkata have low visibility, suggesting travel concerns.
+Regional Patterns: Widespread haze and smoke across northern and southern India.
+Recommendations
+Stay hydrated and avoid outdoor activities during peak sun hours.
+Use protective gear (sunscreen, hats) due to high UV indices.
+Exercise caution while traveling in Mumbai and Kolkata due to reduced visibility.
+No data quality issues noted. All cities have available data.
+
